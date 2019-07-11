@@ -1,0 +1,1 @@
+python "d:\Google disk\Python\switcher\switcher.py" off
